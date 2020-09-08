@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MondaySolution</string>
+    <string-array name="sellercategory">
+        <item>FMCG</item>
+        <item>Grocery</item>
+        <item>Others</item>
+    </string-array>
+</resources>
